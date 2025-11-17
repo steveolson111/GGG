@@ -1,4 +1,4 @@
-# GGG Proj
+# GGG Project
 library(tidymodels)
 library(tidyverse)
 library(vroom)
